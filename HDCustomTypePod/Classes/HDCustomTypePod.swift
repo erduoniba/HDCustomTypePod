@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+public struct HDCustomTypePod {
+    public static func customTypeLog() {
+        print("This is customType log")
+    }
+}
