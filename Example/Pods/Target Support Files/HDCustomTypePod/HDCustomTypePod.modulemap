@@ -1,0 +1,6 @@
+framework module HDCustomTypePod {
+  umbrella header "HDCustomTypePod-umbrella.h"
+
+  export *
+  module * { export * }
+}

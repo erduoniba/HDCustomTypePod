@@ -1,0 +1,6 @@
+framework module Pods_HDCustomTypePod_Tests {
+  umbrella header "Pods-HDCustomTypePod_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

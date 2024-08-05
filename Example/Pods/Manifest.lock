@@ -1,0 +1,16 @@
+PODS:
+  - HDCustomTypePod (0.1.0)
+
+DEPENDENCIES:
+  - HDCustomTypePod (from `../`)
+
+EXTERNAL SOURCES:
+  HDCustomTypePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HDCustomTypePod: 1da6b365cf147d0d87b8a0ec846763224fd938da
+
+PODFILE CHECKSUM: d27fbd5d3938d580a2601a1bd473ac420e5f037d
+
+COCOAPODS: 1.15.2
