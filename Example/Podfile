@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'HDCustomTypePod_Example' do
+  pod 'HDCustomTypePod', :path => '../'
+
+  target 'HDCustomTypePod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
